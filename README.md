@@ -8,7 +8,7 @@ The directory PhpProject1 contains the source code. The directory Configuration-
 
 #How to run the project
 
-The source code require Windows platform(to run the commands). To run the project, you have to do the following steps:
+The source code require Windows platform(to run the commands). To play the music and view the score pdf file, you also need a midi player and Adobe pdf Reader. To run the project, you have to do the following steps:
 
 1 Install php: download a php package from the internet and extract it to drive C:. Rename the folder to "php". 
 
