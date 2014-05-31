@@ -26,7 +26,7 @@ https://github.com/CuAnnan/php-eXist-db-Client
 
 Put the php file in lib directory in the pear directory of your php directory.
 
-5 Download the php.ini in this repositoty and replace the php.ini in your php directory. It contains all the necessary configuration for you. Then restart php.
+5 Use the php.ini in the Configuration-and-Data-file directory to replace the php.ini in your php directory. It contains all the necessary configuration for you. Then restart php.
 
 6 Install Lilypond, make sure it is installed in:
 
@@ -34,7 +34,7 @@ D:\LilyPond
 
 Also make sure that during installation the Python bundle is also install(Do not uncheck the option for Python bundle)
 
-7 In your exist db, create a folder called movie and upload the music.xml to the movie folder. In the program the port number for exist-db is 8080, user name is admin and password is admin. You can change the configuration in search.php very easily.
+7 In your exist db, create a folder called movie and upload the music.xml in Configuration-and-Data-file folder to the movie folder in exist-db. In the program the port number for exist-db is 8080, user name is admin and password is admin. You can change the configuration in search.php very easily.
 
 8 Now you can run our applicaton
 
