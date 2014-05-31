@@ -38,7 +38,7 @@ D:\LilyPond
 
 Also make sure that during installation the Python bundle is also installed(Do not uncheck the option for Python bundle)
 
-7 In your exist db, create a folder called movie and upload the music.xml in Configuration-and-Data-file folder to the movie folder in exist-db. In the program the port number for exist-db is 8080, user name is admin and password is admin. You can change the configuration in search.php very easily.
+7 In your exist db, create a folder called movie and upload the music.xml in Configuration-and-Data-file folder to the movie folder you created. In the program the port number for exist-db is 8080, user name is admin and password is admin. You can change the configuration in search.php very easily.
 
 8 Now you can run our applicaton. Enjoy!
 
