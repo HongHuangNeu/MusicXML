@@ -1,6 +1,8 @@
 MusicXML
+
 The source code for project 3 of Web Data Management
-To run the project, you have to do the following steps:
+
+The source code require Windows platform(to run the commands). To run the project, you have to do the following steps:
 
 1 Install php: download a php package from the internet and extract it to drive C:. Rename the folder to "php". 
 
