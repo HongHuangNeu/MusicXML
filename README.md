@@ -1,6 +1,12 @@
 MusicXML
 
-The source code for project 3 of Web Data Management
+#The source code for project 3 of Web Data Management
+
+#Organization
+
+The directory PhpProject1 contains the source code. The directory Configuration-and-Data-file contains the musicXML data file and the configuration file for php.
+
+#How to run the project
 
 The source code require Windows platform(to run the commands). To run the project, you have to do the following steps:
 
